@@ -1,14 +1,26 @@
-layout_spectrum: 0.02411149
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.3365557
 color:
   saturation: 0.7645667
-  lightness: 0.3441143
   brandStrength: 0.9790547
+  lightness: 0
   brandColors:
     - '#273816'
     - '#FEFFFF'
     - '#3768AB'
     - '#4F89D5'
     - '#A4ADB4'
-  rhythmicContrast: 0.02520051
+  rhythmicContrast: 0.6374866
+layout_spectrum: 0.02411149
 name: Zappa
