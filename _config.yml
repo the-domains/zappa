@@ -1,0 +1,14 @@
+layout_spectrum: 0.02411149
+typography_spectrum: 0.3365557
+color:
+  saturation: 0.7645667
+  lightness: 0.3441143
+  brandStrength: 0.9790547
+  brandColors:
+    - '#273816'
+    - '#FEFFFF'
+    - '#3768AB'
+    - '#4F89D5'
+    - '#A4ADB4'
+  rhythmicContrast: 0.02520051
+name: Zappa
